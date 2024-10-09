@@ -1,1 +1,6 @@
 This is the first line in the text file.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 97fa0d1f5d886ca4dcef008e2f2aa5e4688ef909
